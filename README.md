@@ -1,2 +1,2 @@
-# Raspberry. <https://eugenezakhno.github.io/malina/>
+# Raspberry Lending page. <https://eugenezakhno.github.io/malina/>
 ===========
